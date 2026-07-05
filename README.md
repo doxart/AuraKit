@@ -4,7 +4,7 @@
 
 EasyPops is a lightweight and easy-to-use Android library for creating customizable and visually appealing popup messages in your application. Whether you need a simple toast, a fancy alert, or a fully customizable popup, EasyPops makes it effortless to integrate popups into your project.
 
-<img src="https://github.com/doxart/EasyPops/blob/master/showoff.png">
+<img src="https://github.com/doxart/AuraKit/blob/master/showcase.gif">
 
 <p align="center">
     <img width="200" align="center" src="https://github.com/doxart/EasyPops-Easy-Android-Pop-Up/blob/master/res/progress.gif">
