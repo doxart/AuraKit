@@ -54,7 +54,7 @@ dependencyResolutionManagement {
 
 Add the dependency to your module-level build.gradle:
 
-[![](https://jitpack.io/v/doxart/EasyPops.svg)](https://jitpack.io/#doxart/EasyPops)
+[![Latest](https://jitpack.io/v/doxart/EasyPops.svg)](https://jitpack.io/#doxart/EasyPops)
 
 ```groovy
 dependencies {
