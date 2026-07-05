@@ -6,13 +6,6 @@ EasyPops is a lightweight and easy-to-use Android library for creating customiza
 
 <img src="https://github.com/doxart/AuraKit/blob/master/showcase.gif">
 
-<p align="center" style="display: none;">
-    <img width="200" align="center" src="https://github.com/doxart/EasyPops-Easy-Android-Pop-Up/blob/master/res/progress.gif">
-    <img width="200" align="center" src="https://github.com/doxart/EasyPops-Easy-Android-Pop-Up/blob/master/res/snack.gif">
-    <img width="200" align="center" src="https://github.com/doxart/EasyPops-Easy-Android-Pop-Up/blob/master/res/datepicker.gif">
-    <img width="200" align="center" src="https://github.com/doxart/EasyPops-Easy-Android-Pop-Up/blob/master/res/dialog.gif">
-</p>
-
 ---
 
 ## 🎉 Features
