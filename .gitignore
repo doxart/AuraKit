@@ -19,3 +19,4 @@ captures
 node_modules/
 docs/
 .agents/
+aurakit/aurakitsecring.gpg
